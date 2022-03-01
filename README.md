@@ -12,7 +12,7 @@ Will build, package and create a new Docker image with the application
  
 ```mvn clean package```
  
-Launch an Application and a Mongo container
+Launch an Application
 
 # Next Steps
 - Tests improvements
