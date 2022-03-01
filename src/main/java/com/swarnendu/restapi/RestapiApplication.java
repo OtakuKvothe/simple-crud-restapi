@@ -1,9 +1,5 @@
 package com.swarnendu.restapi;
 
-import java.io.FileInputStream;
-import java.io.FileReader;
-import java.io.InputStreamReader;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
